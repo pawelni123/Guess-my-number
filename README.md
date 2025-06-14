@@ -10,10 +10,7 @@ The player can restart the game at any time by clicking the Again! button.
 
 🚀 How to Run
 Link here:  https://pawelni123.github.io/Guess-my-number-game/
-or
-1.Clone this repository
-2.Open index.html in your browser
-3.Start guessing and have fun!
+or 1.Clone this repository 2.Open index.html in your browser 3.Start guessing and have fun!
 
 
 🧑‍💻 What I Learned
@@ -35,7 +32,5 @@ or
 
 📚 Technologies Used
 HTML5
-
 CSS3
-
 Vanilla JavaScript (ES6+)
